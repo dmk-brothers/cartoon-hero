@@ -1,0 +1,23 @@
+body{
+    background-color: cornsilk
+}
+h1{
+font-size: 30px;
+color: aquamarine;
+}
+h2{
+font-size: 20px;
+color: wheat;
+}
+.big{
+font-size: 90px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: magenta;
+}
+h1 span{
+color: violet;
+} 
