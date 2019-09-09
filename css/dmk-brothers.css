@@ -1,4 +1,52 @@
+a.link
+
+title{
+    color: aqua;
+    font-family: fantasy;
+    font-size: 60px;
+}
+class 1{
+    animation-duration: 5s; text-align: center;
+}
 body{
+    background-color: cadetblue;
     font-size: 40px;
     text-align: center;
+}
+
+h1{
+ padding: 0;
+ border: 10px; black;
+ background-color: powderblue; opacity: 0.9;
+ color: coral;
+ font-family: fantasy;
+ font-size: 100px;
+ width: auto;
+}
+address{
+font-display:swap 
+}
+pre{
+    border-color: red;
+    border: 5px;
+    padding: 100px;
+}
+#p01{
+    color: greenyellow
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active{
+    background-color: orangered;
+    color: black;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
